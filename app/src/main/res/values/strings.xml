@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ESSUHELP</string>
+
+    <string-array name="campus_locations">
+        <item>Main Building</item>
+        <item>Science Building</item>
+        <item>Library</item>
+        <item>Cafeteria</item>
+        <item>Gymnasium</item>
+        <item>Dormitory A</item>
+        <item>Dormitory B</item>
+        <item>Parking Lot</item>
+        <item>Sports Field</item>
+        <item>Administration Building</item>
+    </string-array>
+</resources>

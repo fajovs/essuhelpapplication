@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".DashboardActivity">
+
+    <TextView
+        android:id="@+id/textViewWelcome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Welcome"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="24dp" />
+
+    <Button
+        android:id="@+id/buttonEmergency"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="EMERGENCY ALERT"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/emergency_button_background"
+        android:padding="20dp"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="24dp" />
+
+    <Button
+        android:id="@+id/buttonProfile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="My Profile"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/button_background"
+        android:padding="12dp"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/buttonViewEmergencies"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View Emergency Alerts"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/button_background"
+        android:padding="12dp"
+        android:layout_marginBottom="16dp"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/buttonLogout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Logout"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/button_background_secondary"
+        android:padding="12dp" />
+
+</LinearLayout>

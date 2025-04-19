@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "904564319172",
+    "firebase_url": "https://essuemergencyapp-15634-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "essuemergencyapp-15634",
+    "storage_bucket": "essuemergencyapp-15634.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904564319172:android:34268cea05528f7bbffa91",
+        "android_client_info": {
+          "package_name": "com.ensias.essuemergencyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoat3WaCHRl-gWDsHlBpJMYDeovuAzQA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904564319172:android:291bc1ac8c8bc851bffa91",
+        "android_client_info": {
+          "package_name": "com.ensias.essuhelp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoat3WaCHRl-gWDsHlBpJMYDeovuAzQA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

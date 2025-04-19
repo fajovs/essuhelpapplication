@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonLogin" type="id" />
+    <item name="textViewRegister" type="id" />
+    <item name="textViewStudentId" type="id" />
+    <item name="textViewEmail" type="id" />
+    <item name="editTextMedicalInfo" type="id" />
+    <item name="buttonSave" type="id" />
+</resources>
