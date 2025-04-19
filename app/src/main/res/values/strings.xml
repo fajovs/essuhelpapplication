@@ -2,15 +2,20 @@
     <string name="app_name">ESSUHELP</string>
 
     <string-array name="campus_locations">
-        <item>Main Building</item>
-        <item>Science Building</item>
-        <item>Library</item>
-        <item>Cafeteria</item>
-        <item>Gymnasium</item>
-        <item>Dormitory A</item>
-        <item>Dormitory B</item>
-        <item>Parking Lot</item>
-        <item>Sports Field</item>
-        <item>Administration Building</item>
+
+        <item>Graduate School</item>
+        <item>College of Computer Science</item>
+        <item>College of Computer Science</item>
+        <item>College of Engineering</item>
+        <item>College of Engineering</item>
+        <item>College of Education</item>
+        <item>College of Law</item>
+        <item>College of Criminal Justice Education</item>
+        <item>College of Hospitality Management</item>
+        <item>College of Agriculture and Fisheries</item>
+        <item>College of Technology</item>
+        <item>College of Arts and Sciences</item>
+        <item>College of Nursing and Allied Sciences</item>
+
     </string-array>
 </resources>
