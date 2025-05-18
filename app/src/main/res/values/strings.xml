@@ -3,19 +3,33 @@
 
     <string-array name="campus_locations">
 
-        <item>Graduate School</item>
-        <item>College of Computer Science</item>
-        <item>College of Computer Science</item>
-        <item>College of Engineering</item>
-        <item>College of Engineering</item>
-        <item>College of Education</item>
-        <item>College of Law</item>
-        <item>College of Criminal Justice Education</item>
-        <item>College of Hospitality Management</item>
+        <item>Admin</item>
+        <item>Canuctan Hall</item>
+        <item>CCS New Building</item>
         <item>College of Agriculture and Fisheries</item>
-        <item>College of Technology</item>
         <item>College of Arts and Sciences</item>
+        <item>College of Business and Accountancy</item>
+        <item>College of Computer Studies</item>
+        <item>College of Criminal Justice Education</item>
+        <item>College of Education</item>
+        <item>College of Engineering</item>
+        <item>College of Hospitality Management</item>
+        <item>College of Law</item>
         <item>College of Nursing and Allied Sciences</item>
+        <item>ESSU Church</item>
+        <item>ESSU Faculty Lounge</item>
+        <item>ESSU Grandstand</item>
+        <item>ESSU Guard House</item>
+        <item>ESSU Library</item>
+        <item>ESSU Pavilion</item>
+        <item>ESSU Smart Building</item>
+        <item>ESSU Social Hall</item>
+        <item>Graduate School</item>
+        <item>IBABAWNON Building</item>
+        <item>ICTC Building</item>
+        <item>NSTP Building</item>
+        <item>PAGASA Weather Station</item>
+
 
     </string-array>
 </resources>

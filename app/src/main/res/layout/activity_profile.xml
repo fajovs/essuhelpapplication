@@ -16,22 +16,44 @@
         android:textStyle="bold"
         android:layout_marginBottom="24dp" />
 
+    <!-- Label and Editable Name -->
     <TextView
-        android:id="@+id/textViewName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Name: "
+        android:text="Full Name"
         android:textSize="16sp"
-        android:layout_marginBottom="8dp" />
+        android:layout_marginBottom="4dp" />
 
-    <TextView
-        android:id="@+id/textViewStudentId"
+    <EditText
+        android:id="@+id/editTextName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Student ID: "
+        android:hint="Enter your name"
         android:textSize="16sp"
-        android:layout_marginBottom="8dp" />
+        android:padding="12dp"
+        android:background="@drawable/edit_text_background"
+        android:layout_marginBottom="16dp" />
 
+    <!-- Label and Editable Student ID -->
+    <TextView
+        android:id="@+id/labelStudentId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Student ID"
+        android:textSize="16sp"
+        android:layout_marginBottom="4dp" />
+
+    <EditText
+        android:id="@+id/editTextStudentId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter your student ID"
+        android:textSize="16sp"
+        android:padding="12dp"
+        android:background="@drawable/edit_text_background"
+        android:layout_marginBottom="16dp" />
+
+    <!-- Read-only Email -->
     <TextView
         android:id="@+id/textViewEmail"
         android:layout_width="match_parent"
@@ -40,6 +62,7 @@
         android:textSize="16sp"
         android:layout_marginBottom="24dp" />
 
+    <!-- Label for Medical Info -->
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -67,6 +90,7 @@
         android:background="@drawable/edit_text_background"
         android:layout_marginBottom="24dp" />
 
+    <!-- Save Button -->
     <Button
         android:id="@+id/buttonSave"
         android:layout_width="match_parent"

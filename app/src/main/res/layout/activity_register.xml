@@ -43,7 +43,7 @@
             android:id="@+id/editTextStudentId"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Student ID (Start with ADMIN for admin account)"
+            android:hint="Student ID"
             android:inputType="text"
             android:padding="12dp"
             android:background="@drawable/edit_text_background"
